@@ -1,0 +1,20 @@
+path: para el postman
+
+https://gorest.co.in/
+GET;
+
+https://gorest.co.in/public/v2/users/
+
+POST:
+
+https://gorest.co.in/public/v2/users
+
+POST:
+
+https://gorest.co.in/public/v2/users/
+
+DELATE
+
+https://gorest.co.in/public/v2/users/{{id_user}}
+
+{{id_user}}= es el id del usuario 
